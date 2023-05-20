@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-azure-storage",
+  "name": "strapi-provider-upload-azure-storage-cached",
   "version": "2.1.0",
   "license": "MIT",
   "main": "./lib",
@@ -12,7 +12,7 @@
   "strapi": {
     "isProvider": true
   },
-  "repository": "https://github.com/jakeFeldman/strapi-provider-upload-azure-storage",
+  "repository": "https://github.com/fl034/strapi-provider-upload-azure-storage",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",
